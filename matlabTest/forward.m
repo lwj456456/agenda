@@ -6,3 +6,4 @@ b_h_t = conv(hpt,b_l);
 b_h_d= b_h_t(1:2:end);
 grp = (grp+f_delay)/2;
 end
+%test
